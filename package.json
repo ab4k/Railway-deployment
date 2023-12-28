@@ -1,0 +1,23 @@
+{
+  "name": "socialapp",
+  "version": "1.0.0",
+  "description": "A random social app for learning",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "express",
+    "api"
+  ],
+  "author": "Abhay Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "date-format": "^4.0.14",
+    "express": "^4.18.2",
+    "moment": "^2.30.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
